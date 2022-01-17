@@ -6,7 +6,10 @@
 ` docker build -t checkbox-detector . `
 
 2- Docker Run
-` docker run -it checkbox-detector `
+` docker run -it --publish=8888:8888 checkbox-detector `
+
+3- Access on Browser
+` http://localhost:8888/?token=... `
 
 
 ## Model:
