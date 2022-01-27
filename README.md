@@ -1,4 +1,4 @@
-# Checkbox and Check Mark Detector Challenge
+# Checkbox and Check Mark Detector
 
 ## Instructions to run the Notebook:
 
