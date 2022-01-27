@@ -15,7 +15,7 @@
 ## Model:
 
 Binary Model:
-model/vgg16_checkbox_binary/vgg16_checkbox_binary_v1.7z
+model/vgg16_checkbox_binary/binary_checkbox_v1.h5
 
 Multiclass Model:
-model/multiclass_checkbox/multiclass_checkbox_v1.h5
+model/multiclass_checkbox/multiclass_checkbox_v2.h5
